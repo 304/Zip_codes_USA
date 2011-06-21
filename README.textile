@@ -1,0 +1,4 @@
+h1. Total: 41977 zip codes.
+
+There are county, city, state and coordinates(longitude, latitude) information about every zip code.
+*CSV and mySQL dump.*
